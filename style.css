@@ -4,7 +4,7 @@
     font-family: 'Roboto', sans-serif;
 }
 .header{
-    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(/banner.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(https://harshiitgarg.github.io/eduford/banner.png);
     min-height: 100vh;
     width: 100%;
     background-size: cover;
@@ -282,7 +282,7 @@ nav .fa-solid{
 .cta{
     margin: 100px auto;
     width: 80%;
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/banner2.jpg);
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(https://harshiitgarg.github.io/eduford/banner2.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
